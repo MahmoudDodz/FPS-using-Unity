@@ -39,7 +39,5 @@ While individual script names may vary, this project likely includes:
 
 ## 🧪 Status
 
-> ⚠️ This is a prototype or work-in-progress project. Not intended for production without further development, polish, and optimization.
-
-## 📁 Project Structure (Relevant Parts)
+> ⚠️ This is a prototype project. It is not intended for production without further development, polishing, and optimization.
 
